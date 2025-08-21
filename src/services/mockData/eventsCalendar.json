@@ -1,0 +1,122 @@
+[
+  {
+    "Id": 1,
+    "title": "Downtown Rally - Economic Recovery",
+    "description": "Major campaign rally focusing on economic recovery plans and job creation initiatives for the local community.",
+    "date": "2024-02-15",
+    "time": "18:00",
+    "location": "City Hall Plaza",
+    "type": "rally",
+    "status": "scheduled"
+  },
+  {
+    "Id": 2,
+    "title": "Community Town Hall Meeting",
+    "description": "Open forum discussion with constituents about healthcare reform and education funding priorities.",
+    "date": "2024-02-22",
+    "time": "19:00",
+    "location": "Lincoln High School Auditorium",
+    "type": "town_hall",
+    "status": "scheduled"
+  },
+  {
+    "Id": 3,
+    "title": "Fundraising Dinner - Spring Gala",
+    "description": "Annual spring fundraising gala with special guest speakers and silent auction to support campaign efforts.",
+    "date": "2024-03-08",
+    "time": "19:30",
+    "location": "Grand Ballroom, Riverside Hotel",
+    "type": "fundraiser",
+    "status": "scheduled"
+  },
+  {
+    "Id": 4,
+    "title": "Press Conference - Infrastructure Plan",
+    "description": "Media briefing to announce comprehensive infrastructure improvement plan for roads and public transportation.",
+    "date": "2024-02-28",
+    "time": "10:00",
+    "location": "Campaign Headquarters",
+    "type": "press_conference",
+    "status": "scheduled"
+  },
+  {
+    "Id": 5,
+    "title": "Volunteer Training Workshop",
+    "description": "Training session for new campaign volunteers covering voter outreach, phone banking, and canvassing techniques.",
+    "date": "2024-03-02",
+    "time": "14:00",
+    "location": "Community Center Room B",
+    "type": "training",
+    "status": "scheduled"
+  },
+  {
+    "Id": 6,
+    "title": "Youth Engagement Forum",
+    "description": "Special event focused on engaging young voters and discussing issues important to students and recent graduates.",
+    "date": "2024-03-12",
+    "time": "16:00",
+    "location": "University Student Union",
+    "type": "forum",
+    "status": "scheduled"
+  },
+  {
+    "Id": 7,
+    "title": "Debate Preparation Session",
+    "description": "Private preparation session for upcoming televised debate with opposition candidates.",
+    "date": "2024-03-18",
+    "time": "09:00",
+    "location": "Campaign Strategy Room",
+    "type": "preparation",
+    "status": "scheduled"
+  },
+  {
+    "Id": 8,
+    "title": "Senior Citizens Breakfast",
+    "description": "Morning breakfast meeting with senior citizen groups to discuss Medicare and Social Security policies.",
+    "date": "2024-03-25",
+    "time": "08:30",
+    "location": "Sunrise Community Center",
+    "type": "meeting",
+    "status": "scheduled"
+  },
+  {
+    "Id": 9,
+    "title": "Labor Union Endorsement Event",
+    "description": "Special event to receive formal endorsement from local labor unions and discuss worker rights initiatives.",
+    "date": "2024-04-05",
+    "time": "17:00",
+    "location": "Union Hall",
+    "type": "endorsement",
+    "status": "scheduled"
+  },
+  {
+    "Id": 10,
+    "title": "Environmental Policy Summit",
+    "description": "Policy discussion focused on environmental protection, renewable energy, and climate change initiatives.",
+    "date": "2024-04-15",
+    "time": "13:00",
+    "location": "Green Conference Center",
+    "type": "summit",
+    "status": "scheduled"
+  },
+  {
+    "Id": 11,
+    "title": "Small Business Roundtable",
+    "description": "Interactive discussion with local small business owners about tax policies and regulatory reform.",
+    "date": "2024-04-20",
+    "time": "11:00",
+    "location": "Chamber of Commerce",
+    "type": "roundtable",
+    "status": "scheduled"
+  },
+  {
+    "Id": 12,
+    "title": "Election Night Watch Party",
+    "description": "Campaign headquarters election night gathering to watch results and celebrate with supporters and volunteers.",
+    "date": "2024-05-07",
+    "time": "19:00",
+    "location": "Campaign Headquarters Main Hall",
+    "type": "watch_party",
+    "status": "scheduled"
+  }
+]
